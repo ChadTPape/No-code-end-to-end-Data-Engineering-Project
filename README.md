@@ -15,9 +15,9 @@ Among the 5 files given I downloaded only albums ,artist and track file .
 
 The project utilizes the following AWS services:
 
-AWS Crawler
-AWS S3 (Simple Storage Service)
-AWS Glue
+AWS Crawler, 
+AWS S3 (Simple Storage Service), 
+AWS Glue, 
 Amazon Athena
 
 Create S3 Buckets:
